@@ -36,8 +36,7 @@
 <br/>
 
 <a href="https://github.com/seanyboy271">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seanyboy271&theme=buefy&show_icons=true?include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanyboy271&theme=buefy&layout=compact&" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seanyboy271&theme=vue"/>
 </a>
 
 <br/>
