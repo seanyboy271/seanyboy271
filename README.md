@@ -37,7 +37,6 @@
 
 <a href="https://github.com/seanyboy271">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanyboy271&exclude_repo=CovidHacksProject,Perceptron,Database-Theory-Semester-Project,FitBit-Heart-Rate-Monitor"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seanyboy271&theme=vue"/>
 </a>
 
 <br/>
