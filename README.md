@@ -1,6 +1,5 @@
-![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
-<h2> Hey there. 👋 It seems that you've stumbled across my Github.  </h2>
-
+<h2> Hey there. 👋 It seems that you've stumbled across my Github.</h2>
+<img src="https://user-images.githubusercontent.com/42748760/148127580-cdbe2646-25e6-497f-959f-42da905864fd.gif"/>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
