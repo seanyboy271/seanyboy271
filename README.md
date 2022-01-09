@@ -33,6 +33,13 @@
 - 👨‍💻 &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon&logoColor=007ACC)
 
+<h3>💻  Current Project (WIP) </h3>
+
+- ___Congress stock watcher:___ A website that will track individual stock trades made by members of congress
+  - <a href='https://github.com/seanyboy271/congress-trades'>![Front-End](https://img.shields.io/badge/-FrontEnd-333333?style=flat&logo=react)</a>
+  - <a href='https://github.com/seanyboy271/congress-trades-service'>![Back-End](https://img.shields.io/badge/-BackEnd-333333?style=flat&logo=node.js)</a>
+
+
 <br/>
 
 <a href="https://github.com/seanyboy271">
