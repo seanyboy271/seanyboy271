@@ -3,10 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💻 &nbsp; Love building Web Applications using the most modern technology.
-- 🎓 &nbsp; Graduated from VCU with a degree in Computer Science.
-- 💼 &nbsp; Working as a Software Engineer at Capital One.
-- 🌱 &nbsp; Always learning more about Cloud Architecture, web development, and whatever other cool things interest me.
+- 💼 &nbsp; Working as a Software Engineer at Confluent.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
